@@ -1,7 +1,6 @@
 ## Hello! I'm Lucas Vitorino
 
-- 🔭 I’m currently working as a Full Stack Developer at Tunts Rocks
-- 🌱 I’m currently learning more ReactJS
+- 🔭 I’m currently working as a Full Stack Developer at Nelnet
 
 <div align="center">
   <a href="https://github.com/lucasvitorinodev">
