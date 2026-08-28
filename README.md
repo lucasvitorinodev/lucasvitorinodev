@@ -1,27 +1,27 @@
-## Hello! I'm Lucas Vitorino
+## Lucas Vitorino
 
-- 🔭 I’m currently working as a Full Stack Developer at Nelnet
+Software engineer. Financial systems by day, logistics SaaS the rest of the time.
 
-<div align="center">
-  <a href="https://github.com/lucasvitorinodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvitorinodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvitorinodev&layout=compact&langs_count=7&theme=dark"/>
-</div>
+At **Nelnet** I work on Velocity, a specialty student-loan servicing platform
+(Angular frontend, microservices on AWS). My piece of it is credit reporting and
+compliance, bankruptcy servicing, and loan data integrity. Being wrong is
+expensive here: a misreported delinquency date is someone's credit score.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Lucas-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Lucas-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-</div>
+I'm also the **AI Champion** on my team there, leading AI adoption and the
+practices around it.
 
-##
+As a partner at **Alterans**, I'm building a SaaS platform for warehouse and
+logistics management with React and Next.js.
 
-<div> 
-  <a href="mailto:lucasvitorino.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-vitorino-2bb68818a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-![Snake animation](https://github.com/lucasvitorinodev/lucasvitorinodev/blob/output/github-contribution-grid-snake.svg)
+Different industries, same problem underneath: real operations, real money, no
+room for "close enough".
 
-</div>
+I favor readable, predictable code over clever code. The kind someone else can
+maintain two years from now.
+
+**Working with:** TypeScript · Node.js · Angular · React · Next.js · Prisma ·
+PostgreSQL · SQL Server · AWS
+
+B.Sc. Electronics Engineering, Federal University of Paraná (UFPR)
+
+[LinkedIn](https://www.linkedin.com/in/lucas-vitorino-2bb68818a/) · lucasvitorino.dev@gmail.com
