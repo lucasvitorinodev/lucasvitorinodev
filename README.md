@@ -7,6 +7,9 @@ At **Nelnet** I work on Velocity, a specialty student-loan servicing platform
 compliance, bankruptcy servicing, and loan data integrity. Being wrong is
 expensive here: a misreported delinquency date is someone's credit score.
 
+I'm also the **AI Champion** on my team there, leading AI adoption and the
+practices around it.
+
 As a partner at **Alterans**, I'm building a SaaS platform for warehouse and
 logistics management with React and Next.js.
 
