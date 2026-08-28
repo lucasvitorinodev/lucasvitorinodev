@@ -11,7 +11,7 @@ I'm also the **AI Champion** on my team there, leading AI adoption and the
 practices around it.
 
 As a partner at **Alterans**, I'm building a SaaS platform for warehouse and
-logistics management with React and Next.js.
+logistics management & Many other projects with React and Next.js.
 
 Different industries, same problem underneath: real operations, real money, no
 room for "close enough".
